@@ -10,69 +10,100 @@ social:
   twitter: Spuxy
   linkedin: filip-boyekofi
   facebook: filip-boye-kofi-86a015206
+  discord: SpuxyYEZ#9161
 
 theme: 
   style: banking # casual, classic, oldstyle, or banking
   color: gruvbox
+
 # TODO: neeed to impelement in go
-order:
-  - [about, NONE]
-  - [current_position, Current Position]
-  - [education, Education]
-  - [positions, Previous Positions]
-  - [honors, Honors \& Awards]
-  - [all_publications, Publications]
-  - [NEWPAGE, NEWPAGE]
-  - [repos, Repositories]
-  - [talks, Invited Talks]
-  - [advising, Interns and Students]
-  - [service, Professional Activities]
-  - [teaching, Teaching]
-  - [skills, Skills]
+# order:
+#   - [about, NONE]
+#   - [current_position, Current Position]
+#   - [education, Education]
+#   - [positions, Previous Positions]
+#   - [honors, Honors \& Awards]
+#   - [all_publications, Publications]
+#   - [NEWPAGE, NEWPAGE]
+#   - [repos, Repositories]
+#   - [talks, Invited Talks]
+#   - [advising, Interns and Students]
+#   - [service, Professional Activities]
+#   - [teaching, Teaching]
+#   - [skills, Skills]
 
 about: '
-  Im Filip.
+  Hi, im Filip, im interested in programming / software engineering. I love learn all about code from low level to high level.
+  If it makes sense i do my code to follow SOLID pattern. I like to do unit tests if makes sense for specific scenario. 
+
+  Im looking for company which knows what it wants. My picture on a daily basis is code reviewing and getting feedback. 
+  Im looking for a team whichs communicates a lot with co-workers.
 <br><br>'
 
-service:
-  - details: Test
-    year: 2020
-    url: https://test.com/view/test/home
+# service:
+#   - details: Test
+#     year: 2020
+#     url: https://test.com/view/test/home
 
 repos:
-  - repo_url: https://github.com/test/test
-    name: test/test
+  - repo_url: https://github.com/Spuxy/Snitcher
+    name: Spuxy/Snitcher
     year: 2022
-    desc: Test desc
+    desc: Lets snich your smell code !
+  - repo_url: https://github.com/Spuxy/resumify
+    name: Spuxy/resumify
+    year: 2022
+    desc: Generater tool in Go to build your awesome CV
+  - repo_url: https://github.com/Spuxy/.dotfiles
+    name: Spuxy/.dotfiles
+    year: 2021
+    desc: My dotfiles rice
+  - repo_url: https://github.com/Spuxy/HashTable
+    name: Spuxy/HashTable
+    year: 2021
+    desc: Implemented Hash Table datastructure in Go
+  - repo_url: https://github.com/Spuxy/BinarySerachTree
+    name: Spuxy/BinarySerachTree
+    year: 2021
+    desc: Implemented BinarySearch Tree datastructure in Go
 
 education:
-  - school: CZU
-    location: Praha, CZ
-    degree: Ing. in Computer Science
-    dates: 2014 - 2019
+  - school: Czech University of Life Sciences Prague
+    location: Prague, CZ, 50.1309089, 14.3733350
+    degree: Ing. in Computer Science (on going)
+    dates: 2018 - 2022
 
-  - school: CZU
-    location: Praha, CZ
+  - school: Czech University of Life Sciences Prague
+    location: Prague, CZ, 50.1309089, 14.3733350
     degree: B.S. in Computer Science
-    dates: 2011 - 2014
+    dates: 2015 - 2018
 
 current_position:
-    place: Vltava Media
-    location: Praha - Jinonice
+    place: VLTAVA LABE MEDIA a.s.
+    location: Praha, Jinonice. 50.0565686, 14.3751319
     title: PHP Developer
-    dates: 2019 -- Present
+    dates: 2020 -- Present
     website: https://www.vlmedia.cz/
 
 positions:
-  - place: PHP DEV
-    title: PHP DEV TITLE
-    dates: 2016 -- 2019
+  - place: CleanUp Cloud s.r.o.
+    title: PHP Developer (Junior)
+    dates: 2018 -- 2019
+  - place: NAUSUS / Creativity & Knowledge
+    title: PHP Developer (Junior)
+    dates: 2019 -- 2020
+  - place: Monster Media
+    title: PHP Developer
+    dates: 2020 -- 2020
+  - place: Etyka digital
+    title: PHP Developer
+    dates: 2020 -- 2020
 
 skills:
   - title: Frameworks
-    details: JAX, NumPy, Pandas, PyTorch, SciPy, TensorFlow, Torch7
+    details: Gin, Martini, viper, Symfony, Laravel, Nette
   - title: Programming
-    details: C, C++, Fortran, Haskell, Java,
-      Lua, Make, Mathematica, Python, R, Scala
+    details: PHP, Go, Rust (WIP)
+      Lua (only for nvim plugins), Make, Bash, SQL
   - title: Tools
-    details: Linux, emacs, vim, evil, org, mu4e, xmonad, git, tmux, zsh
+    details: Arch, nvim, zathura, bspwm, polybar, tmux, git, zsh, mutt and all in terminal, minimum of gui
