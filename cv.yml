@@ -6,15 +6,11 @@ pdf: /data/cv.pdf
 src: https://github.com/Spuxy/cv
 url: "spuxy.github.io"
 social:
-  github: SpuxyGithub
-  twitter: SpuxyTwitter
-  linkedin: SpuxyLinkedin
-  facebook: SpuxyLinkedin
+  github: Spuxy
+  twitter: Spuxy
+  linkedin: filip-boyekofi
+  facebook: filip-boye-kofi-86a015206
 
-# Erdős  number is at most 4.
-# (Brandon Amos -> Layne Watson -> Leroy Kelly -> Zoltán Füredi -> Paul Erdős )
-
-# LaTeX formatting
 theme: 
   style: banking # casual, classic, oldstyle, or banking
   color: gruvbox
