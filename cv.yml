@@ -107,3 +107,9 @@ skills:
       Lua (only for nvim plugins), Make, Bash, SQL
   - title: Tools
     details: Arch, nvim, zathura, bspwm, polybar, tmux, git, zsh, mutt and all in terminal, minimum of gui
+
+galleries:
+  - description: Split keyboard
+    picture_path: /images/keyboard/splitkb.png
+  - description: Helidox Corne
+    picture_path: /images/keyboard/helidox_corne.png
