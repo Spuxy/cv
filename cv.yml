@@ -5,12 +5,14 @@ email: Spuxy@seznam.cz
 pdf: /data/cv.pdf
 src: https://github.com/Spuxy/cv
 url: "spuxy.github.io"
+status: "I'am not looking for any company, I'am happy atm 😇"
 social:
   github: Spuxy
   twitter: Spuxy
   facebook: filip-boyekofi
   linkedin: filip-boye-kofi-86a015206
   discord: SpuxyYEZ#9161
+  leetcode: Spuxy
 
 theme: 
   style: banking # casual, classic, oldstyle, or banking
@@ -38,7 +40,12 @@ about: '
 
   Im looking for company which knows what it wants. My picture on a daily basis is code reviewing and getting feedback. 
   Im looking for a team whichs communicates a lot with co-workers.
-<br><br>'
+
+  My view on processing to solve business problem (on code level):
+    1) Programming - get the thing done.
+    2) Engineering - debugging, refactoring, checking and creating "mental models" about code.
+
+    <br><br>'
 
 # service:
 #   - details: Test
@@ -103,8 +110,7 @@ skills:
   - title: Frameworks
     details: Gin, Martini, viper, Symfony, Laravel, Nette
   - title: Programming
-    details: PHP, Go, Rust (WIP)
-      Lua (only for nvim plugins), Make, Bash, SQL
+    details: PHP, Go, Rust (WIP), Lua (only for nvim plugins), Make, Bash, SQL
   - title: Tools
     details: Arch, nvim, zathura, bspwm, polybar, tmux, git, zsh, mutt and all in terminal, minimum of gui
 
