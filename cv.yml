@@ -35,17 +35,16 @@ theme:
 #   - [skills, Skills]
 
 about: '
-  Hi, im Filip, im interested in programming / software engineering. I love learn all about code from low level to high level.
-  If it makes sense i do my code to follow SOLID pattern. I like to do unit tests if makes sense for specific scenario. 
+  Hi, im Filip, im interested in programming / software engineering. I love learn all about code from low level to high level. <br>
+  If it makes sense i do my code to follow SOLID pattern. I like to do unit tests if makes sense for specific scenario. <br>
 
-  Im looking for company which knows what it wants. My picture on a daily basis is code reviewing and getting feedback. 
-  Im looking for a team whichs communicates a lot with co-workers.
+  Im looking for company which knows what it wants. My picture on a daily basis is code reviewing and getting feedback. <br>
+  Im looking for a team whichs communicates a lot with co-workers. <br>
 
-  My view on processing to solve business problem (on code level):
-    1) Programming - get the thing done.
-    2) Engineering - debugging, refactoring, checking and creating "mental models" about code.
-
-    <br><br>'
+  My view on processing to solve business problem (on code level): <br>
+    1) Programming - get the thing done. <br>
+    2) Engineering - debugging, refactoring, checking and creating "mental models" about code.<br>
+ '
 
 # service:
 #   - details: Test
