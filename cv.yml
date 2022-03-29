@@ -5,7 +5,8 @@ email: Spuxy@seznam.cz
 pdf: /data/cv.pdf
 src: https://github.com/Spuxy/cv
 url: "spuxy.github.io"
-status: "I'am not looking for any company, I'am happy atm 😇"
+# status: "I'am not looking for any company, I'am happy atm 😇"
+status: ""
 social:
   github: Spuxy
   twitter: Spuxy
