@@ -36,15 +36,20 @@ theme:
 #   - [skills, Skills]
 
 about: '
-  Hi, im Filip, im interested in programming / software engineering. I love learn all about code from low level to high level. <br>
+  <b>Hard Skills:</b>  <br>
+  Hi, I am Filip, im interested in programming / software engineering. I love to learn any subject about code from low level to high level. <br>
   If it makes sense i do my code to follow SOLID pattern. I like to do unit tests if makes sense for specific scenario. <br>
-
-  Im looking for company which knows what it wants. My picture on a daily basis is code reviewing and getting feedback. <br>
-  Im looking for a team whichs communicates a lot with co-workers. <br>
-
+  <br>
+  I am looking for company which knows what it wants. My picture of daily workflow is code reviewing and getting feedback and trying to figure out what to improve/avoid next time. <br>
+  I am looking for a team whichs communicates a lot with co-workers. <br>
+  <br>
   My view on processing to solve business problem (on code level): <br>
     1) Programming - get the thing done. <br>
     2) Engineering - debugging, refactoring, checking and creating "mental models" about code.<br>
+  <br>
+  <b>Soft Skills:</b> <br>
+  I am really motivated to improve myself and gain/drain knowledge from my coworkers.
+  I am able to see things from different points of view to be open for any project or subject to discuss.
  '
 
 # service:
