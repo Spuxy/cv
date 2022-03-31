@@ -35,21 +35,21 @@ theme:
 #   - [teaching, Teaching]
 #   - [skills, Skills]
 
+# good moto: bravi me pracovat v rust a go a to je duvod proc chci u vas pracovat protoze to co delate mi dava nej
 about: '
-  <b>Hard Skills:</b>  <br>
-  Hi, I am Filip, im interested in programming / software engineering. I love to learn any subject about code from low level to high level. <br>
-  If it makes sense i do my code to follow SOLID pattern. I like to do unit tests if makes sense for specific scenario. <br>
-  <br>
-  I am looking for company which knows what it wants. My picture of daily workflow is code reviewing and getting feedback and trying to figure out what to improve/avoid next time. <br>
-  I am looking for a team whichs communicates a lot with co-workers. <br>
-  <br>
-  My view on processing to solve business problem (on code level): <br>
-    1) Programming - get the thing done. <br>
-    2) Engineering - debugging, refactoring, checking and creating "mental models" about code.<br>
-  <br>
-  <b>Soft Skills:</b> <br>
-  I am really motivated to improve myself and gain/drain knowledge from my coworkers.
-  I am able to see things from different points of view to be open for any project or subject to discuss.
+  🔴 Interested in programming / software engineering. <br>
+  🟠 Love to learn any subject about code from low level to high level. <br>
+  🟡 Interest more in fundamental aspects than "just using" framework <br>
+  🟢 My dream is to put my legacy into libraries/code which helps to other programmers or make libraries to help others programmers <br>
+  🔵 Main factor is to have fun and see meaning of the project <br>
+  🟣 I am looking for company which knows what it wants. <br>
+  🟤 I am looking for a team whichs communicates a lot with co-workers. <br>
+  🔴 My picture of daily workflow is code reviewing and getting feedback and trying to figure out what to improve/avoid next time. <br>
+  🟠 I am really motivated to improve myself and gain/drain knowledge from my coworkers. <br>
+  🟡 I am able to see things from different points of view to be open for any project or subject to discuss. <br>
+  🟢 My worklflow on processing to solve business problem (on code level): <br>
+    🥇) Programming - get the thing done. <br>
+    🥈) Engineering - debugging, refactoring, checking and creating "mental models" about code.<br>
  '
 
 # service:
@@ -101,15 +101,19 @@ positions:
   - place: CleanUp Cloud s.r.o.
     title: PHP Developer (Junior)
     dates: 2018 - 2019
+    desc: Working and learning on product to analyze platform (salesforce). Coding in Nette with MySQL database and solving business problems. Gained on the job experience with standard software and practices.
   - place: NAUSUS / Creativity & Knowledge
     title: PHP Developer (Junior)
     dates: 2019 - 2020
+    desc: Developing mobile application for events in React/Laravel. The product uses many big companies located in CZ/SK. Gained many patterns and anti-patterns and working more alone on project.
   - place: Monster Media
     title: PHP Developer
     dates: 2020 - 2020
+    desc: Migrating one EMS system to another by using PHP and Laravel + Bash scripting. Gained many devops tools like docker, CI/CD.
   - place: Etyka digital
     title: PHP Developer
     dates: 2020 - 2020
+    desc: Creating APIs with other companies for an customer in PHP Symfony.
 
 skills:
   - title: Frameworks
