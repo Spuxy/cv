@@ -39,14 +39,13 @@ theme:
 about: '
   🔴 Interested in programming / software engineering. <br>
   🟠 Love to learn any subject about code from low level to high level. <br>
-  🟡 Interest more in fundamental aspects than "just using" framework <br>
-  🟢 My dream is to put my legacy into libraries/code which helps to other programmers or make libraries to help others programmers <br>
+  🟡 Interested more in fundamental aspects than "just using" framework <br>
+  🟢 My dream is to put my legacy into libraries/code which helps to other programmers
   🔵 Main factor is to have fun and see meaning of the project <br>
-  🟣 I am looking for company which knows what it wants. <br>
-  🟤 I am looking for a team whichs communicates a lot with co-workers. <br>
+  🟤 I am looking for a team which communicates a lot with co-workers. <br>
   🔴 My picture of daily workflow is code reviewing and getting feedback and trying to figure out what to improve/avoid next time. <br>
-  🟠 I am really motivated to improve myself and gain/drain knowledge from my coworkers. <br>
-  🟡 I am able to see things from different points of view to be open for any project or subject to discuss. <br>
+  🟠 I am really motivated to improve myself and gain/drain knowledge from my co-workers. <br>
+  🟡 I am able to see things from a different perspectives <br>
   🟢 My worklflow on processing to solve business problem (on code level): <br>
     🥇) Programming - get the thing done. <br>
     🥈) Engineering - debugging, refactoring, checking and creating "mental models" about code.<br>
@@ -98,22 +97,26 @@ current_position:
     website: https://www.vlmedia.cz/
 
 positions:
-  - place: CleanUp Cloud s.r.o.
-    title: PHP Developer (Junior)
-    dates: 2018 - 2019
-    desc: Working and learning on product to analyze platform (salesforce). Coding in Nette with MySQL database and solving business problems. Gained on the job experience with standard software and practices.
-  - place: NAUSUS / Creativity & Knowledge
-    title: PHP Developer (Junior)
-    dates: 2019 - 2020
-    desc: Developing mobile application for events in React/Laravel. The product uses many big companies located in CZ/SK. Gained many patterns and anti-patterns and working more alone on project.
-  - place: Monster Media
+  - place: Vltava Labe Media
     title: PHP Developer
-    dates: 2020 - 2020
-    desc: Migrating one EMS system to another by using PHP and Laravel + Bash scripting. Gained many devops tools like docker, CI/CD.
+    dates: 2021 - Current
+    desc: Migrate intern systems from different languages into PHP, maintaining CI/CD, implements tests, logging aspects of applications, expands and maintaining ElasticSearch, Docker, Nginx. Responsible for a few projects in our division.
   - place: Etyka digital
     title: PHP Developer
     dates: 2020 - 2020
     desc: Creating APIs with other companies for an customer in PHP Symfony.
+  - place: Monster Media
+    title: PHP Developer
+    dates: 2020 - 2020
+    desc: Migrating one EMS system to another by using PHP and Laravel + Bash scripting. Gained many DevOps tools like docker, CI/CD.
+  - place: NAUSUS / Creativity & Knowledge
+    title: PHP Developer (Junior)
+    dates: 2019 - 2020
+    desc: Developing mobile application for events in React/Laravel. The product uses many big companies located in CZ/SK. Gained many patterns and anti-patterns and working more alone on project.
+  - place: CleanUp Cloud s.r.o.
+    title: PHP Developer (Junior)
+    dates: 2018 - 2019
+    desc: Working and learning on product to analyze platform (salesforce). Coding in Nette with MySQL database and solving business problems. Gained on the job experience with standard software and practices.
 
 skills:
   - title: Frameworks
