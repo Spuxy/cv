@@ -125,7 +125,7 @@ positions:
   - place: VLTAVA LABE MEDIA a.s.
     title: PHP Developer (Junior)
     dates: 2020 - 2022
-    desc: Working as PHP developer in team to deliver all news in Denik.cz, at the end of my last year i was leading the team.
+    desc: Working as PHP developer in team to deliver all news in Denik.cz. igrate internal systems from different languages into PHP, maintaining CI/CD, implementing tests, logging states of applications, expanding and maintaining ElasticSearch, Docker, Nginx. Responsible for a few projects in our division. At the end of my last year i was leading the team.
 
 skills:
   - title: Frameworks
