@@ -89,9 +89,9 @@ education:
     degree: B.S. in Computer Science
     dates: 2015 - 2018
 
-  - school: Certification Kubernetes Admin
+  - school: Certification Kubernetes Admin (CKA)
     location: Prague
-    degree: Certification
+    degree: Linux Foundation
     dates: 2025 - 2027
 
 current_position:
