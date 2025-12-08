@@ -1,7 +1,7 @@
 name:
   first: Filip
   last: Boye-Kofi
-email: Spuxy@seznam.cz
+email: filip.boyekofi@gmail.com
 pdf: /data/cv.pdf
 src: https://github.com/Spuxy/cv
 url: "spuxy.github.io"
@@ -89,12 +89,17 @@ education:
     degree: B.S. in Computer Science
     dates: 2015 - 2018
 
+  - school: Certification Kubernetes Admin
+    location: Prague
+    degree: Certification
+    dates: 2025 - 2027
+
 current_position:
-    place: VLTAVA LABE MEDIA a.s.
-    location: Praha, Jinonice. 50.0565686, 14.3751319
-    title: PHP Developer
-    dates: 2020 - Present
-    website: https://www.vlmedia.cz/
+    place: Livesport
+    location: Praha, Nove Butovice. 50.0522193,14.3520059
+    title: DevOps
+    dates: 2022 - Present
+    website: https://www.livesport.eu/en
 
 positions:
   - place: Vltava Labe Media
@@ -117,14 +122,18 @@ positions:
     title: PHP Developer (Junior)
     dates: 2018 - 2019
     desc: Working and learning on product to analyze platform (salesforce). Coding in Nette with MySQL database and solving business problems. Gained on the job experience with standard software and practices.
+  - place: VLTAVA LABE MEDIA a.s.
+    title: PHP Developer (Junior)
+    dates: 2020 - 2022
+    desc: Working as PHP developer in team to deliver all news in Denik.cz, at the end of my last year i was leading the team.
 
 skills:
   - title: Frameworks
-    details: Gin, Martini, viper, Symfony, Laravel, Nette
+    details: Gin, Martini, Viper, Bubbletea, Symfony, Laravel, Nette, tons of others
   - title: Programming
-    details: PHP, Go, Rust (WIP), Lua (only for nvim plugins), Make, Bash, SQL
+    details: Go, PHP, Lua (only for nvim plugins), Make, Bash, SQL
   - title: Tools
-    details: Arch, nvim, zathura, bspwm, polybar, tmux, git, zsh, mutt and all in terminal, minimum of gui
+    details: unix-like systems, git, Helm, Kubernetes, Consul, Vault, Ansible, Terraform, Puppet, Ceph, HAProxy, Nginx, all cloud-native candies
 
 galleries:
   - description: Scylla
