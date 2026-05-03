@@ -1,3 +1,4 @@
+---
 name:
   first: Filip
   last: Boye-Kofi
@@ -15,7 +16,7 @@ social:
   discord: SpuxyYEZ#9161
   leetcode: Spuxy
 
-theme: 
+theme:
   style: banking # casual, classic, oldstyle, or banking
   color: gruvbox
 
@@ -36,20 +37,7 @@ theme:
 #   - [skills, Skills]
 
 # good moto: bravi me pracovat v rust a go a to je duvod proc chci u vas pracovat protoze to co delate mi dava nej
-about: '
-  🔴 Interested in programming / software engineering. <br>
-  🟠 Love to learn any subject about code from low level to high level. <br>
-  🟡 Interested more in fundamental aspects than "just using" framework <br>
-  🟢 My dream is to put my legacy into libraries/code which helps to other programmers <br>
-  🔵 Main factor is to have fun and see meaning of the project <br>
-  🟤 I am looking for a team which communicates a lot with co-workers. <br>
-  🔴 My picture of daily workflow is code reviewing and getting feedback and trying to figure out what to improve/avoid next time. <br>
-  🟠 I am really motivated to improve myself and gain/drain knowledge from my co-workers. <br>
-  🟡 I am able to see things from a different perspectives <br>
-  🟢 My worklflow on processing to solve business problem (on code level): <br>
-    🥇) Programming - get the thing done. <br>
-    🥈) Engineering - debugging, refactoring, checking and creating "mental models" about code.<br>
- '
+about: ' 🔴 Interested in programming / software engineering. <br> 🟠 Love to learn any subject about code from low level to high level. <br> 🟡 Interested more in fundamental aspects than "just using" framework <br> 🟢 My dream is to put my legacy into libraries/code which helps to other programmers <br> 🔵 Main factor is to have fun and see meaning of the project <br> 🟤 I am looking for a team which communicates a lot with co-workers. <br> 🔴 My picture of daily workflow is code reviewing and getting feedback and trying to figure out what to improve/avoid next time. <br> 🟠 I am really motivated to improve myself and gain/drain knowledge from my co-workers. <br> 🟡 I am able to see things from a different perspectives <br> 🟢 My worklflow on processing to solve business problem (on code level): <br> 🥇) Programming - get the thing done. <br> 🥈) Engineering - debugging, refactoring, checking and creating "mental models" about code.<br> '
 
 # service:
 #   - details: Test
@@ -78,6 +66,24 @@ repos:
     year: 2021
     desc: Implemented BinarySearch Tree datastructure in Go
 
+contributions:
+  - repo_url: https://github.com/stern/stern
+    name: ⎈ Multi pod and container log tailing for Kubernetes
+    desc: Patched a bugs
+    year: 2026
+  - repo_url: https://github.com/prometheus/prometheus
+    name: The Prometheus monitoring system and time series database.
+    desc: Refactor of simplifying function calls
+    year: 2026
+  - repo_url: https://github.com/kubie-org/kubie
+    name: A more powerful alternative to kubectx and kubens.
+    desc: Fixed a silently failed hook
+    year: 2026
+  - repo_url: https://github.com/charmbracelet/lipgloss
+    name: Style definitions for nice terminal layouts 👄
+    desc: Fixed infinite loop with zero-width border chars.
+    year: 2026
+
 education:
   - school: Czech University of Life Sciences Prague
     location: Prague, CZ, 50.1309089, 14.3733350
@@ -95,11 +101,11 @@ education:
     dates: 2025 - 2027
 
 current_position:
-    place: Livesport
-    location: Praha, Nove Butovice. 50.0522193,14.3520059
-    title: DevOps
-    dates: 2022 - Present
-    website: https://www.livesport.eu/en
+  place: Livesport
+  location: Praha, Nove Butovice. 50.0522193,14.3520059
+  title: DevOps
+  dates: 2022 - Present
+  website: https://www.livesport.eu/en
 
 positions:
   - place: Livesport
